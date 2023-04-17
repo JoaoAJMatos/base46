@@ -1,5 +1,4 @@
--- Credits to original https://chriskempson/tomorrow-theme
--- This is modified version of it
+-- Tsoding theme
 
 local M = {}
 
@@ -69,6 +68,6 @@ M.polish_hl = {
       },
 }
 
-M = require("base46").override_theme(M, "tsoding")
+M = require("base46").override_theme(M, "tundra")
 
 return M
