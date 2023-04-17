@@ -44,14 +44,14 @@ M.base_16 = {
   base05 = "#c5c8c6",
   base06 = "#e0e0e0",
   base07 = "#ffffff",
-  base08 = "#cc6666",
-  base09 = "#de935f",
-  base0A = "#f0c674",
-  base0B = "#b5bd68",
-  base0C = "#8abeb7",
-  base0D = "#81a2be",
-  base0E = "#b294bb",
-  base0F = "#a3685a",
+  base08 = "#ffdd33",
+  base09 = "#ffdd33",
+  base0A = "#ffdd33",
+  base0B = "#ffdd33",
+  base0C = "#ffdd33",
+  base0D = "#ffdd33",
+  base0E = "#ffdd33",
+  base0F = "#ffdd33",
 }
 
 M.type = "dark"
@@ -68,6 +68,6 @@ M.polish_hl = {
       },
 }
 
-M = require("base46").override_theme(M, "tsoding")
+M = require("base46").override_theme(M, "tundra")
 
 return M
