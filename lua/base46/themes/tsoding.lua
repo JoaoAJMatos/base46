@@ -36,22 +36,22 @@ M.base_30 = {
 }
 
 M.base_16 = {
-  base00 = "#1d1f21",
+  base00 = "#181818",
   base01 = "#282a2e",
   base02 = "#373b41",
-  base03 = "#969896",
+  base03 = "#ff9b21",
   base04 = "#b4b7b4",
   base05 = "#c5c8c6",
   base06 = "#e0e0e0",
   base07 = "#ffffff",
-  base08 = "#ffdd33",
-  base09 = "#ffdd33",
-  base0A = "#ffdd33",
-  base0B = "#ffdd33",
-  base0C = "#ffdd33",
-  base0D = "#ffdd33",
+  base08 = "#ffffff",
+  base09 = "#ffffff",
+  base0A = "#ffffff",
+  base0B = "#ffffff",
+  base0C = "#ffffff",
+  base0D = "#ffffff",
   base0E = "#ffdd33",
-  base0F = "#ffdd33",
+  base0F = "#ffffff",
 }
 
 M.type = "dark"
